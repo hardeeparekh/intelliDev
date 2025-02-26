@@ -4,7 +4,7 @@
 
 intelliDev is a comprehensive AI-driven developer productivity tool that continuously monitors a project's file system and terminal history. Integrated directly into your IDE (e.g., VS Code), it offers real-time, context-aware debugging support, code suggestions, and file diffs—all while safeguarding sensitive code via a customizable ignore file.
 
-## Problem Statement
+## Challenges Tackled
 
 - **Complexity in Large Projects:**  
   Developers, especially those in the learning phase, struggle to manage and debug projects with many files.
